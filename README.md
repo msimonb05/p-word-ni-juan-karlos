@@ -9,3 +9,5 @@ Apparently, I am using Node.js, because that was the initial server environment 
 
 With that said, thank you for looking at this!
 I do not really know what to place in here, **yet**, because I have yet to learn more.
+
+*P.S. If you're Filipino, please 'wag mo 'kong isumbong kay Juan Karlos. Salamat HAHAHAHAHA!*
