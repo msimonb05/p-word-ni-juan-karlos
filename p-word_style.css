@@ -1,0 +1,73 @@
+body {
+    background-color: #ffe48b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#p_wordButton {
+    font-size: 30px;
+    font-family: "Comic Sans MS", cursive;
+    padding: 15px 30px;
+    background-color: #ffc400;
+    color: black;
+    border-color: #a37d00;
+    cursor: pointer;
+}
+
+#p_wordButton:active {
+    background-color: #d3a200;
+}
+
+#clickCount {
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive;
+    margin-top: 10px;
+}
+
+#credit {
+    font-size: 14px;
+    font-family: "Comic Sans MS", cursive;
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    opacity: 60%;
+}
+
+#links {
+    font-size: 16px;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+
+#links a {
+    text-decoration: none;
+}
+
+#links a img {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    opacity: 50%;
+}
+
+.invert-image{
+    filter: invert();
+    border: none;
+}
+
+#update {
+    font-size: 12px;
+    font-family: "Comic Sans MS", cursive;
+    text-align: center;
+    position: absolute;
+    bottom: 2px;
+    width: 100%;
+    opacity: 60%;
+}
