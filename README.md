@@ -1,4 +1,4 @@
-# P Word ni Juan Karlos
+# P-word ni Juan Karlos
 
 Hi, Mark here.
 I only placed this **AS A JOKE** HAHAHAHAHA!
