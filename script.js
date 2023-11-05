@@ -13,6 +13,6 @@ button.addEventListener("click", () => {
     
     newP_wordAudio.play(); // play audio
     
-    // Display the click count
+    // display click count
     document.getElementById("clickCount").textContent = `Number of times Juan Karlos P*tangina'd: ${clickCount}`;
 });
